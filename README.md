@@ -3,3 +3,4 @@
  To test the app on your local machine run the following in RStudio:
  shiny::runGitHub('upas_app', 'nickgood').
  Note: the app requires the 'shiny' package among others.
+Read the project wiki [https://github.com/nickgood/upas_app/wiki] to learn about the app. 
